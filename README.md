@@ -6,4 +6,7 @@ This is a personal project of mine, where I try to reproduce the code for resear
    - Directory: ArtStyle
    - Programming Language: Python
    - Original Paper: https://doi.org/10.48550/arXiv.1508.06576 
-2) 
+2) On Orthogonality Constraints for Transformers by Aston Zhang, Alvin Chan, Yi Tay, Jie Fu, Shuohang Wang, Shuai Zhang, Huajie Shao, Shuochao Yao, Roy Ka-Wei Lee
+   - Directory: FantasyConlagMTL
+   - Programming Language: Python
+   - Original Paper: https://aclanthology.org/2021.acl-short.48.pdf
